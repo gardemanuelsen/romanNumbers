@@ -1,0 +1,4 @@
+# Project exclude paths
+/roman/target/
+.idea
+
